@@ -2,7 +2,7 @@ import "./style.css";
 import logo from "./logo.png";
 
 const downloadPack = async () => {
-  const res = await fetch("https://job-iden-create.netlify.app/pack.zip", { mode: "no-cors" });
+  const res = await fetch("./pack.zip");
   const blob = await res.blob();
   window.open(window.URL.createObjectURL(blob));
 };
