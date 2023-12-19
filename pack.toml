@@ -1,0 +1,13 @@
+name = "New Pack Create"
+author = "sammy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a610e0c70232e5b4e0880f99fdcede22c9ade67d4bbac29d93229947b49b8b63"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Decorative Blocks"
+filename = "Decorative+Blocks-fabric-1.19.2-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cq0m2EIu/versions/SQgrjbzP/Decorative%2BBlocks-fabric-1.19.2-3.1.1.jar"
+hash-format = "sha1"
+hash = "29bec013e755fc2a86832a966a527918681f9991"
+
+[update]
+[update.modrinth]
+mod-id = "Cq0m2EIu"
+version = "SQgrjbzP"
