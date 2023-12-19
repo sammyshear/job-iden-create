@@ -2,7 +2,7 @@ import "./style.css";
 import logo from "./logo.png";
 
 const downloadPack = async () => {
-  const res = await fetch("./pack.zip");
+  const res = await fetch("https://job-iden.xyz/pack.zip");
   const blob = await res.blob();
   window.open(window.URL.createObjectURL(blob));
 };
