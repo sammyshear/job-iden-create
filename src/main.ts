@@ -2,9 +2,7 @@ import "./style.css";
 import logo from "./logo.png";
 
 const downloadPack = async () => {
-  const res = await fetch("./pack.zip");
-  const blob = await res.blob();
-  window.open(window.URL.createObjectURL(blob));
+  window.open("./pack.zip");
 };
 
 document.querySelector("#app")!.innerHTML = `
