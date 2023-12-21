@@ -2,7 +2,7 @@ import "./style.css";
 import logo from "./logo.png";
 
 const downloadPack = async () => {
-  window.open("./pack.zip");
+  window.open("https://github.com/sammyshear/job-iden-create/raw/main/public/pack.zip");
 };
 
 document.querySelector("#app")!.innerHTML = `
