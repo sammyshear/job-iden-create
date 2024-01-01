@@ -266,6 +266,11 @@ hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "27d8c96d3721eb06ad12bc963d99d50eb1f48fe4c6f19b6c39e8f92876a12e1b"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "da7b03f5a29bfe03170dfee5875086d5af4cc0ab4b80b5ba916fb15d09703cd5"
 metafile = true
