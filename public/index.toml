@@ -581,11 +581,6 @@ hash = "da9beccf3758ed9913e808004f8ff41019510edb8edffd8ba72255781e13ce63"
 metafile = true
 
 [[files]]
-file = "mods/world-host.pw.toml"
-hash = "41bffec1e4e1120f0418ba6e6bf99ebaa60faec3eb290f735d8a7ff83ed5f43b"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "4596788460ee2cb223d2894242dfe9ab100ece553217a554b17e21cb1a50d99c"
 metafile = true
