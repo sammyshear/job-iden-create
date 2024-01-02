@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
 metafile = true
 
 [[files]]
@@ -583,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/way2wayfabric.pw.toml"
+hash = "be6deb31b198944d42de17decea30fd3e97bd33400b2755ddb3aaf038785d05a"
 metafile = true
 
 [[files]]
