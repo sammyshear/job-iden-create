@@ -151,6 +151,11 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "997c16130f34bf02d072731b8495b44cdd468aab70c1c65c1b640df6895a601c"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "ed0d6c6380b7af2bf62f6e36e0a5cbb6aaf8450a5bea6dfb0b6823e7e6674d02"
 metafile = true
 
 [[files]]
@@ -566,6 +576,16 @@ hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c2118f16d354ae2959605ff89b50f53b4387f2ff1255b6d4609506f741a6dca"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
 metafile = true
@@ -598,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "da9beccf3758ed9913e808004f8ff41019510edb8edffd8ba72255781e13ce63"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "291859b59adb7d18275324bd0d28e894e17bf64cc7157be7cf3ac641586eaf0a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-fabric-5.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/XZRgMHqv/wthit-fabric-5.19.3.jar"
+hash-format = "sha1"
+hash = "69daf9eec4844245e83865a31881f3ea0c01a386"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "XZRgMHqv"
