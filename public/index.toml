@@ -214,11 +214,6 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "4a6e486fd665ff8b0bb353d12c00e18259abe0d8d9a57f341ab6ffb4fc54b4b7"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "ed0d6c6380b7af2bf62f6e36e0a5cbb6aaf8450a5bea6dfb0b6823e7e6674d02"
 metafile = true
@@ -226,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
-metafile = true
-
-[[files]]
-file = "mods/clockwork.pw.toml"
-hash = "f577a01f2c1ce875999125eb40fa04bfd65142dcb3707be1ced2aa605b1cb3ea"
 metafile = true
 
 [[files]]
@@ -454,11 +444,6 @@ hash = "2b6969305cf06523684d31043844f1c8f147a875c899bfbc1097e60468f274d7"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "183ed6f9464264a58d6665a7cc86c4802a81fb0178ee75b02933e415c432f35f"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
@@ -641,11 +626,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
