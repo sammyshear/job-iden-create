@@ -1,0 +1,9 @@
+name = "Clockwork"
+filename = "clockwork.jar"
+side = "both"
+
+[download]
+url = "https://job-iden.xyz/clockwork.jar"
+
+hash-format = "sha256"
+hash = "04d4fa7a8311a79f79e169dca2c210e1008a8a6d59fd4b716f367f12b099d7ab"

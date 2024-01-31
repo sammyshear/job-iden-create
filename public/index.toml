@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "clockwork.jar"
+hash = "04d4fa7a8311a79f79e169dca2c210e1008a8a6d59fd4b716f367f12b099d7ab"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "128beaacf8d9edc656ab86137a72bec8788a93fc31ee1d6a1425b34272211951"
 
@@ -106,6 +110,15 @@ file = "config/yosbr/options.txt"
 hash = "4c4b9d86961d5fc9213f1781d51ad6f671ee70bffa1df30345356b30c02e7c3c"
 
 [[files]]
+file = "logo.png"
+hash = "b067f87d196d94ab61c5d5767516a0d5b319b362809a5b5453ee2c027f251903"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
 metafile = true
@@ -201,6 +214,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "4a6e486fd665ff8b0bb353d12c00e18259abe0d8d9a57f341ab6ffb4fc54b4b7"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "ed0d6c6380b7af2bf62f6e36e0a5cbb6aaf8450a5bea6dfb0b6823e7e6674d02"
 metafile = true
@@ -208,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/clockwork.pw.toml"
+hash = "f577a01f2c1ce875999125eb40fa04bfd65142dcb3707be1ced2aa605b1cb3ea"
 metafile = true
 
 [[files]]
@@ -431,6 +454,11 @@ hash = "2b6969305cf06523684d31043844f1c8f147a875c899bfbc1097e60468f274d7"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "183ed6f9464264a58d6665a7cc86c4802a81fb0178ee75b02933e415c432f35f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
@@ -551,6 +579,16 @@ hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
 metafile = true
@@ -603,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
